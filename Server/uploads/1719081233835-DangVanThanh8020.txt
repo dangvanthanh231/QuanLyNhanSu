@@ -1,0 +1,14 @@
+https://docs.google.com/spreadsheets/d/1_I_kIzN-YhN0MA2dUJ5iXcR9y2zTzY9JwDvbB6_Rqpg/edit?usp=sharing
+
+
+Câu hỏi về chủ đề đăng nhập đăng ký:
+-	Mở:
++ Ngoài username password anh/chị còn muốn thêm hình thức đăng ký nào khác để đăng ký nhanh hơn.
++ Khi quên mật khẩu anh/chị muốn sử dụng hình thức nào để lấy/đặt lại mật khẩu.
++ Khi đăng ký ânh/chị muốn sử dụng hình thức nào để xác minh tài khoản.
++ Khi đăng nhập mà quên mật khẩu anh/chị muốn sử dụng hình thức nào để vẫn có thể vào tài khoản đươc.
+-	Đóng:
++ Sau khi đăng ký thành công anh/chị có muốn chuyển sang trang đăng nhập không?
++ Khi đăng nhập có cần xác minh thân phận không?
++ Khi đăng nhập sai nhiều lần anh/chị có muốn khóa lại tài khoản không?
++ khi đăng nhập anh/chị có muốn lưu lại mật khẩu không?

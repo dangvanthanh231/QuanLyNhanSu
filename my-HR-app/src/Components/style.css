@@ -1,0 +1,52 @@
+.loginPage{
+    background:url('Images/BackgroundHR.gif');
+    background:line-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url("Images/BackgroundHR.gif");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100% 120%;
+
+}
+
+.loginForm{
+    background-color:rgba(1,32,93,0.6) ;
+    color: white;
+}
+
+ul li :hover {
+    background-color: gray;
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.emp_det_image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.btn-warning{
+    background-color: red;
+    color:aliceblue;
+}
+
+#customers td{
+    text-align: center;
+  }
+
+#customers tr:hover {background-color: #ddd; }
+
+#customers th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #131413;
+  color: white;
+}
+
+table {
+    margin: 20px;
+}

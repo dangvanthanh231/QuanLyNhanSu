@@ -1,0 +1,29 @@
+.category-row {
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .category-row:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .category-name {
+    font-weight: bold;
+    color: #007bff;
+    padding: 10px;
+    text-align: left;
+    font-size: 1.2em;
+  }
+  .category-quantity {
+    font-weight: bold;
+    color: #007bff;
+    padding: 10px;
+    text-align: left;
+    font-size: 1.2em;
+  }
+  .chart-container {
+    margin-top: 20px;
+  }
+  
